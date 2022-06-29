@@ -4,7 +4,7 @@
  * Last modified: 2021.03.23 at 11:47:29
  * Author: SmarterVision - https://codecanyon.net/user/smartervision
  * Copyright (c) 2021
- */
+ */ 
   
 namespace App\Criteria\Awards;
 
