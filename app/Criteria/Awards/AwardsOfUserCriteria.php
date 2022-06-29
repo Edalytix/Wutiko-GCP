@@ -5,7 +5,7 @@
  * Author: SmarterVision - https://codecanyon.net/user/smartervision
  * Copyright (c) 2021
  */
- 
+  
 namespace App\Criteria\Awards;
 
 use Prettus\Repository\Contracts\CriteriaInterface;
